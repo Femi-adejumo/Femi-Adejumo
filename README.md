@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello 👋🏾, Welcome to My GitHub Profile!
 
-<!--
-**Femi-adejumo/Femi-Adejumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Femi Adejumo, a passionate Data Scientist and Machine Learning Engineer with over 2 years of experience in creating impactful, data-driven solutions. I specialize in:
 
-Here are some ideas to get you started:
+- Building and deploying scalable machine learning models.
+- Developing efficient ETL pipelines for data preprocessing.
+- Leveraging cloud platforms (AWS, Azure) for end-to-end AI solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies I Work With:
+- **Programming:** Python, SQL, R
+- **Machine Learning:** TensorFlow, PyTorch, Scikit-Learn
+- **Cloud & DevOps:** Docker, Kubernetes, AWS, Azure
+
+🌟 I am enthusiastic about solving real-world problems with AI and contributing to open-source projects.
+
+📫 Feel free to connect with me: [LinkedIn](https://www.linkedin.com/in/femiadejumo)
